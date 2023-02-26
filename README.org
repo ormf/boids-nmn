@@ -1,0 +1,13 @@
+* boids-nmn
+*** _Orm Finnendahl <orm.finnendahl@selma.hfmdk-frankfurt.de>_
+
+This is a project to do ... something.
+
+** License
+
+gpl 2.0 or later
+
+
+Copyright (c) 2023 Orm Finnendahl <orm.finnendahl@selma.hfmdk-frankfurt.de>
+
+
